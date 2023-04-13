@@ -11,26 +11,27 @@ Download or clone this repo.
 ```
 git clone https://github.com/crackerjacques/Easing_ReaScript.git
 ```
-
 and put 2 of scripts in your reaper's scripts dir.
 
+
+Install the required packages.
 ```
 pip install pygame numpy tk reapy_boost
 ```
 
 Launch Reaper then
 
-
 ```
 python -c "import reapy_boost; reapy_boost.configure_reaper()"
 ```
 
-and load  bezier2envelope.py from Action List or type
+and load  bezier2envelope.py from Action List or 
 
 
 ```
 python  bezier2env_main.py 
 ```
+type in your terminal.
 
 # Problem
 
