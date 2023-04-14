@@ -41,4 +41,4 @@ and if you want to use it, write once and then run this envelope multiplier.
 https://github.com/crackerjacques/Easing_ReaScript/tree/main/Envelope_utility
 
 In addition, reproducibility may be questionable for some curve shapes.
-These will be implemented as soon as we come up with a way to improve them.
+These will be implemented as soon as I come up with a way to improve them.
