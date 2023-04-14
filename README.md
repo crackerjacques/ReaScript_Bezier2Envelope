@@ -9,7 +9,7 @@ Draw Bezier curve to Reaper envelope.
 Download or clone this repo.
 
 ```
-git clone https://github.com/crackerjacques/Easing_ReaScript.git
+git clone https://github.com/crackerjacques/ReaScript_Bezier2Envelope
 ```
 and put 2 of scripts in your reaper's scripts dir.
 
