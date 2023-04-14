@@ -36,9 +36,10 @@ type in your terminal.
 # Problem
 
 It does not yet support decibel scale envelopes, 
-and if you want to use it, write once and then run this envelope multiplier.
+and if you want to use it with Volume fader, write once and then run this envelope multiplier.
 
 https://github.com/crackerjacques/Easing_ReaScript/tree/main/Envelope_utility
+
 
 In addition, reproducibility may be questionable for some curve shapes.
 These will be implemented as soon as I come up with a way to improve them.
